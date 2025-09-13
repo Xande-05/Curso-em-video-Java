@@ -9,5 +9,12 @@ Repositório com exercícios e projetos do curso de **Java** do [Curso em Vídeo
 - Conceitos básicos: variáveis, tipos de dados, operadores  
 - Controle de fluxo: `if`, `switch`, `for`, `while`  
 - Arrays e coleções (`ArrayList`)  
-- Orientação a objetos: classes, objetos, encapsulamento, herança e polimorfismo  
-- Projetos e exercícios práticos para fixação
+- **Programação Orientada a Objetos (POO)**
+  - Classes e objetos  
+  - Métodos e construtores  
+  - Encapsulamento  
+  - Herança  
+  - Polimorfismo  
+- Projetos e exercícios práticos para fixação  
+
+---
